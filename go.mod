@@ -8,7 +8,7 @@ require (
 	github.com/charmbracelet/bubbletea v0.26.4
 	github.com/charmbracelet/lipgloss v0.11.0
 	github.com/charmbracelet/x/term v0.1.1
-	github.com/soul-ua/server v0.0.0-20240531105302-393d6758ccec
+	github.com/soul-ua/server v0.0.1
 	go.etcd.io/bbolt v1.3.10
 )
 

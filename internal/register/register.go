@@ -2,10 +2,12 @@ package register
 
 import (
 	"fmt"
+	"log"
+
 	"github.com/ProtonMail/gopenpgp/v2/crypto"
+
 	"github.com/soul-ua/client/internal/keychain"
 	"github.com/soul-ua/server/pkg/sdk"
-	"log"
 )
 
 func Register(username, serverURL string, kc *keychain.Keychain) (*sdk.SDK, error) {

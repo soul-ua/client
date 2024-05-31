@@ -51,8 +51,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/rivo/uniseg v0.2.0/go.mod h1:J6wj4VEh+S6ZtnVlnTBMWIodfgj8LQOQFoIToxlJtxc=
 github.com/rivo/uniseg v0.4.7 h1:WUdvkW8uEhrYfLC4ZzdpI2ztxP1I582+49Oc5Mq64VQ=
 github.com/rivo/uniseg v0.4.7/go.mod h1:FN3SvrM+Zdj16jyLfmOkMNblXMcoc8DfTHruCPUcx88=
-github.com/soul-ua/server v0.0.0-20240531105302-393d6758ccec h1:kyQCkK3pTP8ZXtaqvWFKUSHZjGKucI5+mt1XpX1cM6I=
-github.com/soul-ua/server v0.0.0-20240531105302-393d6758ccec/go.mod h1:KQQa77PaC4b0SgfFysiBH1aWOB8eDEGcvK3CypMDGd4=
+github.com/soul-ua/server v0.0.1 h1:p6Q1X3Splx0h2V0uS1AXbnuIf8nzpzj5T5OSP7sid08=
+github.com/soul-ua/server v0.0.1/go.mod h1:KQQa77PaC4b0SgfFysiBH1aWOB8eDEGcvK3CypMDGd4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
